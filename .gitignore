@@ -1,0 +1,15 @@
+venv
+__pycache__/
+*.pyc
+data/uploaded_pdfs/*
+!data/uploaded_pdfs/.gitkeep
+data/extracted_images/*
+!data/extracted_images/.gitkeep
+data/chroma_db/
+.env
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc

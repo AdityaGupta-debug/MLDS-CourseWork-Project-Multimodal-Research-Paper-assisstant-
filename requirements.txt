@@ -1,0 +1,11 @@
+streamlit
+pymupdf
+pillow
+numpy
+requests
+python-dotenv
+chromadb
+rank-bm25
+huggingface_hub
+transformers
+pillow
